@@ -56,14 +56,14 @@ Column | Header         | Description
 
 ## Benchmarks
 
-Performance on GAP may be benchmarked against the syntactic parallelism baseline from our above paper:
+Performance on GAP may be benchmarked against the syntactic parallelism baseline from our above paper on the test set:
 
 Task Setting      | M    | F    |  B     | O
 :----------------:|------|------|--------|------
 *snippet-context* | 69.4 | 64.4 | *0.93* | 66.9
 *page-context*    | 72.3 | 68.8 | *0.95* | 70.6
 
-where the metrics are F1 score on **M**asculine and **F**eminine examples, **O**verall, and a **B**ias factor calculated as **M** / **F**.
+where the metrics are F1 score on **M**asculine and **F**eminine examples, **O**verall, and a **B**ias factor calculated as **F** / **M**.
 
 ## Contact
 To contact us, please use gap-coreference@google.com
