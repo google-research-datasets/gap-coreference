@@ -12,7 +12,7 @@ Nonetheless, existing corpora do not capture ambiguous pronouns in sufficient vo
 [Google AI Language's](https://ai.google/research/teams/language/) GAP dataset is an evaluation benchmark comprising 8,908 coreference-labeled pairs of (ambiguous pronoun, antecedent name), sampled from Wikipedia to provide diverse coverage of challenges posed by real-world text.
 Importantly, GAP is gender-balanced to address the gender bias in coreference systems noted in our and other's analysis.
 
-More details are available in our paper (which should be cited if you use or discuss GAP in your work):
+More details are available in [our paper](https://arxiv.org/abs/1810.05201) (which should be cited if you use or discuss GAP in your work):
 
 </p>
 <div class="highlight highlight-source-shell"><pre>
